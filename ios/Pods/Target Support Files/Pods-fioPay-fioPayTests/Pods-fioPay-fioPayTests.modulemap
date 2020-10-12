@@ -1,0 +1,6 @@
+module Pods_fioPay_fioPayTests {
+  umbrella header "Pods-fioPay-fioPayTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
